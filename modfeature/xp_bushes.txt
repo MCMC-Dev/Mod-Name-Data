@@ -1,0 +1,2 @@
+name: XP Bushes
+mods: natura

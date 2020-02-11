@@ -1,0 +1,2 @@
+name: Industrial Craft 2
+alt: mekanism, ender_io, thermal_expansion

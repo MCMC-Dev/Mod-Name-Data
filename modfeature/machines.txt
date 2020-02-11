@@ -1,0 +1,2 @@
+name: Machines
+mods: galacticraft

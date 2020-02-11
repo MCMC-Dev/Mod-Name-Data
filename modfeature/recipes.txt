@@ -1,0 +1,2 @@
+name: Recipes
+mods: jei, nei, tmi

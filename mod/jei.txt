@@ -1,0 +1,2 @@
+name: JEI
+alt: nei, rei, tmi

@@ -1,0 +1,2 @@
+name: Shoelace Slots
+mods: baubles

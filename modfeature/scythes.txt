@@ -1,0 +1,2 @@
+name: Scythes
+mods: tinkers_construct

@@ -1,0 +1,2 @@
+name: Mekanism
+alt: ic2, ender_io, thermal_expansion

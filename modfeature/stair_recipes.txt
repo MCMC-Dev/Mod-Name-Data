@@ -1,0 +1,2 @@
+name: Stair Recipes
+mods: quark

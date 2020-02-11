@@ -1,0 +1,2 @@
+name: Deathpoints
+mods: journeymap

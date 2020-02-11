@@ -1,0 +1,2 @@
+name: Ores
+mods: thermal_expansion

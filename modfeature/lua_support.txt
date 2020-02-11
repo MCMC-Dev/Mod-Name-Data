@@ -1,0 +1,2 @@
+name: Lua Support
+mods: computercraft, opencomputers

@@ -1,0 +1,2 @@
+name: Thermal Expansion
+alt: ic2, mekanism, ender_io

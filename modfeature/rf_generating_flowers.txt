@@ -1,0 +1,2 @@
+name: RF-generating Flowers
+mods: botania

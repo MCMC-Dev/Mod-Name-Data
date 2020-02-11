@@ -1,0 +1,2 @@
+name: Planets
+mods: galacticraft
